@@ -1,2 +1,2 @@
 # Learn-and-Learn-How-to-Learn
-Knowledge, ideas, notes, etc.
+Knowledge, meaningful ideas, notes, etc.
