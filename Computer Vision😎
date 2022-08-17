@@ -1,7 +1,12 @@
 ***********************************************************************************************************************************
 ❤Digital Image Correlation
---> Camera Clibration
---> Image Correlation
---> 3D Reoconsruction
+--> Camera calibration
+--> Image correlation
+--> 3D reconstruction
 💛2022.08.18
+
+❤CV Fundamental Knowledge
+--> Fundamental matrix
+--> Essential matrix
+--> Homography matrix
 ***********************************************************************************************************************************
