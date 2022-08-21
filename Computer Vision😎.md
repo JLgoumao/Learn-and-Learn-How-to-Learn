@@ -17,4 +17,4 @@
 --> find delay time of two signals:  
     1.find obvious features, such as fronts or peaks;(rare noise signal)  
     2.do cross correlation function calculation(can also smooth result by linear averaging or other methods), find the maximum position of result.(cannot ignore noise)  
-    
+--> MATLAB code: "xcorr(signal_a,signal_b)" or "xcorr(a,b,'unbiased')" or "ncorr(…)".  
