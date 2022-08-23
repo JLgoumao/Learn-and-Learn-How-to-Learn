@@ -22,3 +22,7 @@
 ❤Block Matrix Calculation  
 --> Very Important Trick of mathmatical (matrix) operating!  💌  
 --> Operation rules:
+链接(https://pan.baidu.com/s/1tUKBrh30NzC-Ok0sEYL_-Q?pwd=sins)
+提取码：sins
+--来自百度网盘超级会员V4的分享  
+
