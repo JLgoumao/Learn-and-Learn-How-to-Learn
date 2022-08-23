@@ -8,7 +8,7 @@
 --> Fundamental matrix  
 --> Essential matrix  
 --> Homography matrix  
-[png](https://gitee.com/jerrrrrrr/knowledge-record/raw/master/binocular%20system.png)  
+[BinocularSystem.jpg](https://simg.douban.com/view/note/l/-VFTcAzM8MVgNr3ymZBvYw/213204659/x90493679.jpg)  
 💛2022.08.18  
 ***  
 ❤correlation  
