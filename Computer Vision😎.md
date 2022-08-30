@@ -27,4 +27,10 @@
 --来自百度网盘超级会员V4的分享  
 💛2022.08.22
 ***  
-❤Reprojection error(重投影误差)
+❤Reprojection error(重投影误差)  
+[图像重投误差.jpg](https://user-images.githubusercontent.com/94910513/187328248-8ec00034-96df-4882-80c0-5f83d3d22449.png)  
+[归一化标定误差.jpg](https://user-images.githubusercontent.com/94910513/187328419-ce310140-58ba-4a49-8257-a74cbec2ec24.png)  
+[空间点与模型计算点的误差.jpg](https://user-images.githubusercontent.com/94910513/187329213-f1e0f62d-6273-4894-ac53-79395f82b14b.png)
+
+
+
